@@ -2,7 +2,7 @@
 Risk register project for a mock real estate company 
 
 # Company Profile
-**Name:** Summit Ridge Property Group
+**Name:** Summit Ridge Property Group\
 **Industry:** Residential and commercial property management and brokerage
 **Founded:** 2008, headquartered in Lansing, MI, with branch offices in Grand Rapids and Detroit.
 **Size:** 130 employees (45 agents, 35 property managers, 25 maintenance, 25 admin, finance, IT)
