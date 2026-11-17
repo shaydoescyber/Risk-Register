@@ -1,0 +1,12 @@
+--- Part 1 Establishing Company 
+The project was started by creating a Doc and using Claude to generate some ideas for the company profile. 
+Next up was using information from https://www.pmi.org/learning/library/project-risk-management-success-tool-6078 to put together what information
+was needed to support the risk register and project as a whole. 
+
+---- Part 2
+Using Sheets to create the risk register template
+Use Claude to generate 50 random employees. Use Sheets to store names and download as CSV. 
+
+---- Part 4
+Using Microsoft Azure, Entra ID to create a tenant for the company.
+Add employees and their groups.
