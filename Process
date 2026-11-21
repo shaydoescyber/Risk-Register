@@ -7,6 +7,14 @@ was needed to support the risk register and project as a whole.
 Using Sheets to create the risk register template
 Use Claude to generate 50 random employees. Use Sheets to store names and download as CSV. 
 
+---- Part 3
+Add all employees as users including the following:
+- Principal name for email (first initial, last name)
+- Display name (first and last name)
+- Job title
+- Department 
+- Employee ID
+- Group
+
 ---- Part 4
-Using Microsoft Azure, Entra ID to create a tenant for the company.
-Add employees and their groups.
+
