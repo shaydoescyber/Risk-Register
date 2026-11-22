@@ -31,3 +31,8 @@ Fair Housing Act, state real estate licensing rules, PCI DSS (tenant payments), 
 - Single-point dependency on one property management platform
 - Seasonal surge hiring with rushed onboarding and shared logins
 - Property damage and liability exposure across older buildings
+
+# All Documents 
+https://drive.google.com/drive/folders/1qsl1uUDKGbC6gACx-ssIXkttQIHDgjMF?usp=sharing
+
+
