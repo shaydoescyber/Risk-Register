@@ -3,12 +3,20 @@ The project was started by creating a Doc and using Claude to generate some idea
 Next up was using information from https://www.pmi.org/learning/library/project-risk-management-success-tool-6078 to put together what information
 was needed to support the risk register and project as a whole. 
 
----- Part 2
-Using Sheets to create the risk register template
-Use Claude to generate 50 random employees. Use Sheets to store names and download as CSV. 
+---- Part 2 Generating Risk Register 
+Using Sheets to create the risk register template with the following categories:
+- Risk ID
+- Category
+- Risk brief
+- Likelihood [1-5]
+- Impact [1-5]
+- Score [L x I]
+- Rating [C/H/M/L]
+- Mitigation form link
 
----- Part 3
-Add all employees as users including the following:
+---- Part 3 Implementing EntreID
+Use Claude to generate 50 random employees. Use Sheets to store names and download as CSV. 
+Add all employees as users into Azure EntreID including the following:
 - Principal name for email (first initial, last name)
 - Display name (first and last name)
 - Job title
