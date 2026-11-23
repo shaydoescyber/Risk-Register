@@ -39,6 +39,19 @@ A Vnet can be created once a resource group is established. The new Vnet needs a
    - snet-servers       10.10.1.0/24
    - snet-workstations  10.10.2.0/24
    - snet-management    10.10.3.0/24
+Create a network security group (nsg) for each subnet
+Add rule Allow-SMB-From-Workstations to each subnet
+   - Source IP 10.10.2.0/24
+   - Destination IP 10.10.1.0/24
+   - Destination TCP port 445
+   - Allow at 100 priority
+Add rule Deny-VNet-Inbound to each subnet
+   - Source service tag and virtual network
+   - Any destination 
+   - Custom port *
+   - Deny at priority 4000
+Associate each security group with its respective subnet. 
+
 
 
 
