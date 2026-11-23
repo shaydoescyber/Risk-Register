@@ -24,7 +24,7 @@ Add all employees as users into Azure EntreID including the following:
 - Employee ID
 - Group
 
----- Part 4
+---- Part 4 Document Orgaization
 Created a Drive file for the project that includes:
 - Main project overview for mock company 
 - Sheet for the risk register that acts as a summary for each risk 
@@ -58,6 +58,11 @@ Add outbound rule Deny-VNet-Outbound to nsg-management and nsg-workstations
    - Service tag + virtual network 
    - Deny any at 4000 priority
 
+---- Part 6 Set up Shared File Drive
+Set up 3 different shares
+   - Leases includes SR-PropertyMgmnt with R/W and SR-Realtors and SR-Finance with R 
+   - Closing Docs includes SR-Realtors and Finance with R/W 
+   - Scanned IDs includes SR-PropertyMgmnt with R/W 
 
 
 
