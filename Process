@@ -31,3 +31,14 @@ Created a Drive file for the project that includes:
 - Risk Mitigation template that is used to document and track each risk 
 A seperate folder contains the risk mitigation forms for each risk and risk category 
 
+---- Part 5 Establishing Virtual Network
+A resource group was created as SOC-Lab. 
+A Vnet can be created once a resource group is established. The new Vnet needs an address space before adding subnets. 
+    - ex: 10.10.0.0/16 with range 10.10.0.0/16
+3 subnets are created under the previous address space. 
+   - snet-servers       10.10.1.0/24
+   - snet-workstations  10.10.2.0/24
+   - snet-management    10.10.3.0/24
+
+
+
